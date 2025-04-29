@@ -33,7 +33,7 @@
           </div>
         </div>
         <div class="project-image">
-          <img src="project-image.jpg" alt="Screenshot del proyecto" />
+          <img src="../assets/images/foodify.jpg" alt="Screenshot del proyecto" />
         </div>
       </article>
       

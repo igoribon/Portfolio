@@ -23,7 +23,7 @@
       </div>
       <div class="about-image">
         <div class="image-wrapper">
-          <img src="../assets/igor.png" alt="foto de perfil" />
+          <img src="../assets/images/igor.png" alt="foto de perfil" />
         </div>
       </div>
     </div>
