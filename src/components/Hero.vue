@@ -2,11 +2,12 @@
   <section class="hero" id="inicio">
     <div class="hero-content">
       <p class="greeting">Hola, mi nombre es</p>
-      <h1 class="name">Tu Nombre.</h1>
+      <h1 class="name">Igor Aranguren.</h1>
       <h2 class="title">Desarrollo experiencias digitales.</h2>
       <p class="description">
         Soy un desarrollador web especializado en crear experiencias digitales excepcionales. 
-        Actualmente, me enfoco en construir productos accesibles y centrados en el usuario.
+        Actualmente, me enfoco en construir productos accesibles y centrados en el usuario utilizando todas las herramientas a mi disposición.
+        Me apasiona aprender nuevas tecnologías y mejorar mis habilidades para ofrecer soluciones innovadoras y efectivas.
       </p>
       <div class="cta-buttons">
         <a href="#proyectos" class="btn primary">Ver mi trabajo</a>
