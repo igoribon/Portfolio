@@ -17,7 +17,7 @@ import Hero from './components/Hero.vue'
 import About from './components/About.vue'
 import Skills from './components/Skills.vue'
 import Projects from './components/Projects.vue'
-import Contacto from './components/Contacto.vue'
+import Contacto from './components/contacto.vue'
 
 </script>
 
@@ -29,6 +29,6 @@ import Contacto from './components/Contacto.vue'
 main {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0 2rem;
+  padding: 80px 2rem 0; /* Añadimos padding-top igual a la altura del header */
 }
 </style>

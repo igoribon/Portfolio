@@ -9,35 +9,89 @@
         <div class="project-content">
           <div class="project-overline">Proyecto Destacado</div>
           <h3 class="project-title">
-            <a href="#" target="_blank" rel="noopener noreferrer">Título del Proyecto</a>
+            <a href="https://github.com/TheGittersCodingMonsters/Foodify" target="_blank" rel="noopener noreferrer">Foodify</a>
           </h3>
           <div class="project-description">
             <p>
-              Una breve descripción del proyecto destacando las características principales
-              y el impacto del mismo. Explica qué problema resuelve y qué tecnologías
-              utilizaste para desarrollarlo.
+              Aplicación web de recetas y planificación de comidas. Un proyecto colaborativo
+              que permite a los usuarios descubrir, guardar y compartir recetas, así como
+              planificar sus comidas semanales.
             </p>
           </div>
           <ul class="project-tech-list">
-            <li>Vue.js</li>
-            <li>Node.js</li>
-            <li>MongoDB</li>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>API REST</li>
           </ul>
           <div class="project-links">
-            <a href="#" target="_blank" rel="noopener noreferrer" aria-label="GitHub Link">
+            <a href="https://github.com/TheGittersCodingMonsters/Foodify" target="_blank" rel="noopener noreferrer" aria-label="GitHub Link">
               <svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-github"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
-            </a>
-            <a href="#" target="_blank" rel="noopener noreferrer" aria-label="External Link">
-              <svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-external-link"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
             </a>
           </div>
         </div>
         <div class="project-image">
-          <img src="../assets/images/foodify.jpg" alt="Screenshot del proyecto" />
+          <img src="../assets/images/foodify.jpg" alt="Screenshot de Foodify" />
         </div>
       </article>
-      
-      <!-- Puedes duplicar el article.project-card para más proyectos -->
+
+      <article class="project-card">
+        <div class="project-content">
+          <div class="project-overline">Proyecto Destacado</div>
+          <h3 class="project-title">
+            <a href="https://github.com/intxaurtietadev/meteobee" target="_blank" rel="noopener noreferrer">Meteobee</a>
+          </h3>
+          <div class="project-description">
+            <p>
+              Aplicación meteorológica que proporciona información climática detallada.
+              Integra datos en tiempo real de APIs meteorológicas para ofrecer pronósticos
+              precisos y actualizados.
+            </p>
+          </div>
+          <ul class="project-tech-list">
+            <li>JavaScript</li>
+            <li>API Integration</li>
+            <li>Weather Data</li>
+          </ul>
+          <div class="project-links">
+            <a href="https://github.com/intxaurtietadev/meteobee" target="_blank" rel="noopener noreferrer" aria-label="GitHub Link">
+              <svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-github"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
+            </a>
+          </div>
+        </div>
+        <div class="project-image">
+          <img src="../assets/images/meteobee.jpg" alt="Screenshot de Meteobee" />
+        </div>
+      </article>
+
+      <article class="project-card">
+        <div class="project-content">
+          <div class="project-overline">Proyecto Destacado</div>
+          <h3 class="project-title">
+            <a href="https://github.com/igoribon/Gimnasio_MySQL" target="_blank" rel="noopener noreferrer">Gimnasio MySQL</a>
+          </h3>
+          <div class="project-description">
+            <p>
+              Sistema de gestión para gimnasios desarrollado con MySQL. Incluye gestión de 
+              miembros, clases, entrenadores y suscripciones, proporcionando una solución
+              completa para la administración de instalaciones deportivas.
+            </p>
+          </div>
+          <ul class="project-tech-list">
+            <li>MySQL</li>
+            <li>Database Design</li>
+            <li>SQL</li>
+          </ul>
+          <div class="project-links">
+            <a href="https://github.com/igoribon/Gimnasio_MySQL" target="_blank" rel="noopener noreferrer" aria-label="GitHub Link">
+              <svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-github"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
+            </a>
+          </div>
+        </div>
+        <div class="project-image">
+          <img src="../assets/images/gimnasio.jpg" alt="Screenshot de Gimnasio MySQL" />
+        </div>
+      </article>
     </div>
   </section>
 </template>

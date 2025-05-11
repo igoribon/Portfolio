@@ -2,7 +2,7 @@
   <header class="header">
     <nav class="nav-container">
       <div class="logo">
-        <a href="#inicio">IB</a>
+        <a href="#inicio">IA</a>
       </div>
       <ul class="nav-links">
         <li><a href="#inicio"><span>01.</span> Inicio</a></li>
@@ -28,6 +28,7 @@
   background-color: rgba(21, 21, 21, 0.95);
   backdrop-filter: blur(10px);
   padding: 1rem 2rem;
+  height: 80px; /* Altura fija del header */
 }
 
 .nav-container {
