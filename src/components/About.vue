@@ -20,8 +20,9 @@
       <p >
         Destaco por mi capacidad para combinar la gestión eficiente de proyectos con el desarrollo de soluciones tecnológicas llave en mano, aportando expertise en comunicación con el cliente y trabajo en equipo
       </p>
-
-
+      <a href="../assets/Currículum Igor Aranguren Full Stack.pdf" download class="cv-download">
+        Descargar CV
+      </a>
       </div>
       <div class="about-image">
         <div class="image-wrapper">
@@ -72,6 +73,23 @@ h2 {
   font-size: 1.1rem;
   line-height: 1.6;
   margin-bottom: 1rem;
+}
+
+.cv-download {
+  display: inline-block;
+  color: var(--primary-color);
+  text-decoration: none;
+  border: 1px solid var(--primary-color);
+  border-radius: 4px;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+  margin-top: 1rem;
+}
+
+.cv-download:hover {
+  background-color: var(--primary-color);
+  color: var(--bg-color);
 }
 
 .image-wrapper {
