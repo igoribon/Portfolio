@@ -150,6 +150,7 @@ h2 {
 }
 
 .project-card {
+  position: relative;
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   align-items: center;
@@ -158,22 +159,25 @@ h2 {
 
 .project-content {
   position: relative;
-  grid-area: 1 / 1 / -1 / 7;
-  grid-column: 1 / 8;
+  grid-column: 1 / 7;
   z-index: 2;
 }
 
 .project-image {
-  grid-area: 1 / 6 / -1 / -1;
-  position: relative;
+  position: absolute;
+  right: -15%;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 60%;
   z-index: 1;
 }
 
 .project-image img {
   width: 100%;
-  height: 100%;
+  height: auto;
   object-fit: cover;
   border-radius: 4px;
+  box-shadow: 0 10px 30px -15px rgba(0, 0, 0, 0.7);
   filter: grayscale(100%) contrast(1);
   transition: all 0.3s ease;
 }
@@ -251,13 +255,16 @@ h2 {
 
   .project-content {
     grid-column: 1 / -1;
-    padding: 40px 40px 30px;
-    text-align: left;
+    padding: 40px 0;
   }
 
   .project-image {
-    grid-column: 1 / -1;
+    position: relative;
+    right: 0;
+    width: 100%;
+    height: 100%;
     opacity: 0.25;
+    transform: none;
   }
 }
 </style>

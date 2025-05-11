@@ -3,9 +3,9 @@
     <div class="hero-content">
       <p class="greeting">Hola, mi nombre es</p>
       <h1 class="name">Igor Aranguren.</h1>
-      <h2 class="title">Desarrollo experiencias digitales.</h2>
+      <h2 class="title">Desarrollo de soluciones digitales.</h2>
       <p class="description">
-        Soy un desarrollador web especializado en crear experiencias digitales excepcionales. 
+        Soy un desarrollador full-stack web especializado en crear apps digitales para la solución de las necesidades. 
         Actualmente, me enfoco en construir productos accesibles y centrados en el usuario utilizando todas las herramientas a mi disposición.
         Me apasiona aprender nuevas tecnologías y mejorar mis habilidades para ofrecer soluciones innovadoras y efectivas.
       </p>

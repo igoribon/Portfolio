@@ -20,7 +20,7 @@
             <h3>Backend</h3>
             <ul class="skill-list">
               <li>Node.js</li>
-              <li>Express</li>
+              <li>Python</li>
               <li>SQL</li>
               <li>RESTful APIs</li>
             </ul>
@@ -32,6 +32,8 @@
               <li>VS Code</li>
               <li>Terminal</li>
               <li>Webpack/Vite</li>
+              <li>Agile</li>
+              <li>SCRUM</li>
             </ul>
           </div>
         </div>
