@@ -21,6 +21,7 @@
             <ul class="skill-list">
               <li>Node.js</li>
               <li>Python</li>
+              <li>Flask</li>
               <li>SQL</li>
               <li>RESTful APIs</li>
             </ul>
