@@ -59,7 +59,7 @@
           </div>
         </div>
         <div class="project-image">
-          <img src="../assets/images/kidtopia.jpg" alt="Screenshot de Foodify" />
+          <img src="../assets/images/Kidtopia.jpg" alt="Screenshot de Foodify" />
         </div>
       </article>
 
